@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Kevin!
+[<img src="https://raw.githubusercontent.com/kevinlu1248/kevinlu1248/main/intro.gif" alt="# 👋 Hi there! I'm Kevin Lu" title="# 👋 Hi there! I'm Kevin Lu"/>](https://kevin-lu.tech/)
+
+<!-- # Hi there 👋, I'm Kevin! -->
 
 ## :book: About Me
 - :desktop_computer: Software developer, experienced in full-stack and some AI/ML, interested in NLP
