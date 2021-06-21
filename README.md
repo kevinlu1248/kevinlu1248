@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Kevin!
+[<img src="https://raw.githubusercontent.com/kevinlu1248/kevinlu1248/main/intro.gif" alt="# 👋 Hi there! I'm Kevin Lu" title="# 👋 Hi there! I'm Kevin Lu"/>](https://kevin-lu.tech/)
+
+<!-- # Hi there 👋, I'm Kevin! -->
 
 ## :book: About Me
 - :desktop_computer: Software developer, experienced in full-stack and some AI/ML, interested in NLP
@@ -36,6 +38,10 @@
 - :email: Email: kevinlu1248@gmail.com
 - :camera: IG: [@kevinlu1248](https://www.instagram.com/kevinlu1248)
 - :briefcase: LinkedIn: [@kevin-lu-388900197/](https://www.linkedin.com/in/kevin-lu-388900197/)
+
+## Credits
+- [Raymond Li](https://github.com/Raymo111/) for his [intro gif](https://codesandbox.io/s/readme-introgif-9fjo5); I forked [it](https://codesandbox.io/s/readme-introgif-forked-5fdx7) for my own needs
+- [Brittany Chiang](https://github.com/bchiang7) for her open-sourced [personal website](https://github.com/bchiang7/v4); I used it as a Gatsby template to create my own personal website
 
 <!--
 **kevinlu1248/kevinlu1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
