@@ -1,19 +1,21 @@
 # Hi there 👋, I'm Kevin!
 
-## About Me
+## :book: About Me
 - :desktop_computer: Software developer, experienced in full-stack and some AI/ML, interested in NLP
 - :briefcase: Developer of PyATE
 - :mortar_board: '26 Honours Computer Science with Co-op at UWaterloo
-- Ubuntu Focal Fossa 🐱 daily drive
-- Find my info at https://kevin-lu.tech
+- 🐱 Ubuntu Focal Fossa daily drive
+- :link: Find my info at https://kevin-lu.tech
 
 ## 🔭 I’m currently working on ...
-- (PyATE)[https://pypi.org/project/pyate/]: Python Automated Term Extraction, a Python package that implements five automated term extraction (ATE) algorithms based on eight research papers, attaining over 20,000 downloads!
-- (Recycler)[https://github.com/kevinlu1248/recycler] : Fine-tuned model of Google's XCeption that uses image recognition to classify images of recyclables by materials, such as glass or metal, reaching 86% accuracy, using Gary Thung's datase
-- (Research Mode)[https://kevin-lu.tech/researchy-chrome-extension/]: Chrome Extension that provides a convenient sidebar for note-taking as well as other NLP-based utilities for accelerating research, such as automated jargon highlighting, text simplification and reader mode. Future features include auto-generated citations, semantic search and automated summarization.
+- :closed_book: [PyATE](https://pypi.org/project/pyate/): Python Automated Term Extraction, a Python package that implements five automated term extraction (ATE) algorithms based on eight research papers, attaining over 20,000 downloads!
+- :recycle: [Recycler](https://github.com/kevinlu1248/recycler): Fine-tuned model of Google's XCeption that uses image recognition to classify images of recyclables by materials, such as glass or metal, reaching 86% accuracy, using Gary Thung's datase
+- :pencil2: [Research Mode](https://kevin-lu.tech/researchy-chrome-extension/): Chrome Extension that provides a convenient sidebar for note-taking as well as other NLP-based utilities for accelerating research, such as automated jargon highlighting, text simplification and reader mode. Future features include auto-generated citations, semantic search and automated summarization.
 
 ## 📫 How to reach me ... 
-Email: kevinlu1248@gmail.com
+- :email: Email: kevinlu1248@gmail.com
+- :camera: IG: [@kevinlu1248](https://www.instagram.com/kevinlu1248)
+- LinkedIn: [@kevin-lu-388900197/](https://www.linkedin.com/in/kevin-lu-388900197/)
 
 <!--
 **kevinlu1248/kevinlu1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
