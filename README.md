@@ -3,7 +3,7 @@
 <!-- # Hi there 👋, I'm Kevin! -->
 
 ## :book: About Me
-- :desktop_computer: Software developer, experienced in full-stack and some AI/ML, interested in NLP
+- :desktop_computer: Software developer, experienced in full-stack and AI/ML, with NLP deep learning research experience
 - :briefcase: Developer of PyATE
 - :mortar_board: '26 Honours Computer Science with Co-op at UWaterloo
 - 🐱 Ubuntu Focal Fossa daily drive
