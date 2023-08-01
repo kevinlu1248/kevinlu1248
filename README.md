@@ -29,8 +29,7 @@
 
 ## 📫 How to reach me ... 
 - :email: Email: kevinlu1248@gmail.com
-- :camera: IG: [@kevinlu1248](https://www.instagram.com/kevinlu1248)
-- :briefcase: LinkedIn: [@kevin-lu-388900197/](https://www.linkedin.com/in/kevin-lu-388900197/)
+- 🐦 Twitter: @kevinlu1248
 
 ## Credits
 - [Raymond Li](https://github.com/Raymo111/) for his [intro gif](https://codesandbox.io/s/readme-introgif-9fjo5); I forked [it](https://codesandbox.io/s/readme-introgif-forked-5fdx7) for my own needs
