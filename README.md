@@ -8,6 +8,7 @@
 - :bust_in_silhouette: Pronouns: He/Him
 
 ## 🔭 I previously worked on ...
+- [Aline](https://github.com/aline-ai/): a tool to reshape research
 - :closed_book: [PyATE](https://pypi.org/project/pyate/): Python Automated Term Extraction, a Python package that implements five automated term extraction (ATE) algorithms based on eight research papers, attaining over 20,000 downloads!
 - :recycle: [Recycler](https://github.com/kevinlu1248/recycler): Fine-tuned model of Google's XCeption that uses image recognition to classify images of recyclables by materials, such as glass or metal, reaching 86% accuracy, using Gary Thung's dataset
 - :pencil2: [Research Mode](https://kevin-lu.tech/researchy-chrome-extension/): Chrome Extension that provides a convenient sidebar for note-taking as well as other NLP-based utilities for accelerating research, such as automated jargon highlighting, text simplification and reader mode. Future features include auto-generated citations, semantic search and automated summarization.
