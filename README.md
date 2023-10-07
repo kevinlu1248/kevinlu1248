@@ -5,15 +5,14 @@
 ## :book: About Me
 - 🧹 Building [Sweep](https://github.com/sweepai/sweep), an AI powered junior dev
 - :link: Find my info at https://kevin-lu.tech
-- :bust_in_silhouette: Pronouns: He/Him
 
 ## 🔭 I previously worked on ...
+- 🏃‍♂️ At Roblox, forking [RigNet](https://github.com/zhan-xu/RigNet): a graph-based convolution network used to generate rig and skinning data for animating avatars.
 - :pencil: [Aline](https://github.com/aline-ai/): a tool to reshape research with context-aware auto-generation
 - :closed_book: [PyATE](https://pypi.org/project/pyate/): Python Automated Term Extraction, a Python package that implements five automated term extraction (ATE) algorithms based on eight research papers, attaining over 20,000 downloads!
-- :recycle: [Recycler](https://github.com/kevinlu1248/recycler): Fine-tuned model of Google's XCeption that uses image recognition to classify images of recyclables by materials, such as glass or metal, reaching 86% accuracy, using Gary Thung's dataset
-- :pencil2: [Research Mode](https://kevin-lu.tech/researchy-chrome-extension/): Chrome Extension that provides a convenient sidebar for note-taking as well as other NLP-based utilities for accelerating research, such as automated jargon highlighting, text simplification and reader mode. Future features include auto-generated citations, semantic search and automated summarization.
 
 ## 🌱 I’m currently learning ...
+- Traversing the call graph in a repo to make the LLM make better changes
 - Locally running LLMs for code generation (CodeGen-2.5-mono + ONNX maybe?)
 - Training and evaluating better natural language code search embedding models
 - Interested in fine-tuning models to act as agents who can use tools. Maybe reinforcement learning on successful/unsuccessful HotPotQA runs?
@@ -22,7 +21,8 @@
 - Stein and Shakarchi's _Princeton Lectures in Analysis II: Complex Analysis_
 
 ## 🤔 I’m looking for help with ...
-- Evaluating and fine-tuning [GTE](https://huggingface.co/thenlper/gte-base) on natural language to code search, such as CodeSearchNet. It's amazing at most things but not evaluated on code search.
+- Evaluating and fine-tuning [GTE](https://huggingface.co/thenlper/gte-base) and [BGE](https://huggingface.co/BAAI/bge-base-en-v1.5) on natural language to code search, such as CodeSearchNet. It's amazing at most things but not evaluated on code search.
+- Setting up an LSP on the server to set up call graphs to track the source of function calls so that Sweep can traverse this when editing entities.
 
 ## :confetti_ball: Fun fact
 :trumpet: I'm a trumpet player and have done some research on the physics of trumpets. I also made a Google assistance app for drone tuning. I have played in pop orchestras, marching bands, and jazz ensembles, of which my favourite is jazz ensembles.
